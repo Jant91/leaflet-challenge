@@ -1,0 +1,30 @@
+/* Style the map */
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+/* Legend styling */
+.info.legend {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255
+/* Style the map */
+#map {
+  height: 600px;
+  width: 100%;
+}
+
+/* Style the legend */
+.legend {
+  line-height: 18px;
+  color: #555;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
